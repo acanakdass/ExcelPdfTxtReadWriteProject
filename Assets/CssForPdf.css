@@ -1,0 +1,37 @@
+html{
+    margin: 0;
+    font-size: smaller;
+}
+th{
+    text-align: center;
+}
+th,td{
+    border-bottom: 1px solid #ddd;
+}
+tr { line-height: 30px; }
+.center-img{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-top: solid lightgrey 1px;
+}
+.table-container{
+    text-align: left;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.table{
+    width: 100%;
+}
